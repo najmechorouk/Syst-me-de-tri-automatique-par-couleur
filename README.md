@@ -112,3 +112,4 @@ It demonstrates practical implementation of **embedded systems**, **automation**
 
 ---
 
+[To access the repository of the project](https://najmechorouk.github.io/IoT-Color-Sorting-System/)
